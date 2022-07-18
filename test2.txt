@@ -1,4 +1,2 @@
-echo "test2"
-echo "me"
-echo "others"
-
+66666666666
+555555555555

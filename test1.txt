@@ -1,3 +1,2 @@
-echo "test1"
-echo "me"
-echo "others"
+3333333333333
+44444444444
